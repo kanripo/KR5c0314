@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:55:55.527083
+# -*- mode: mandoku-view -*-
 #+TITLE: 還丹肘後訣
-#+PROPERTY: DZID  DZ0915
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—169 三卷 洞神部眾術類
+#+DATE: 2015-08-29 00:55:56
+#+PROPERTY:  LASTPB <PB KR5c0314_SJB_002-190180c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶<md:KR5c0314_HFL_002-012b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+
